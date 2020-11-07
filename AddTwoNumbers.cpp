@@ -1,4 +1,3 @@
-//YET CHUN FONG 300376480
 #include <iostream>
 using namespace std;
 
